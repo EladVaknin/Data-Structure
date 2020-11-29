@@ -1,3 +1,3 @@
 #  Data Structure
  
-- This project represents implementations that were learned in the Data Structure course in 2020.
+- This project presents data structure implementations that i wrote for a Data Structure course in 2020.
